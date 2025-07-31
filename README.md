@@ -33,3 +33,11 @@ Dal Rice,410,Lunch
    ```bash
    git clone https://github.com/TejasAbhang77/nutritional-diet-manager.git
    cd nutritional-diet-manager
+
+   ```
+
+   ## 👥 Contributors
+
+- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
+- **Adnaan Momin** – [GitHub](https://github.com/Adnaan29)
+
