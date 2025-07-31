@@ -1,0 +1,371 @@
+Dish,Calories,Meal Type,Protein (g),Carbs (g),Fats (g),Calcium (mg),Iron (mg),Fiber (g),Serving Size (g)
+Idli with Sambar,400,Breakfast,7,35,9,80,4.0,6,180
+Poha,251,Breakfast,8,36,10,81,5.0,7,181
+Upma,252,Breakfast,9,37,11,82,6.0,8,182
+Aloo Paratha,253,Breakfast,10,38,12,83,4.0,6,183
+Dosa with Chutney,254,Breakfast,7,39,13,84,5.0,7,184
+Rava Idli,255,Breakfast,8,40,9,85,6.0,8,185
+Misal Pav,256,Breakfast,9,41,10,86,4.0,6,186
+Thepla,257,Breakfast,10,42,11,87,5.0,7,187
+Kanda Poha,258,Breakfast,7,43,12,88,6.0,8,188
+Besan Chilla,259,Breakfast,8,44,13,89,4.0,6,189
+Methi Thepla,260,Breakfast,9,45,9,90,5.0,7,190
+Paneer Paratha,261,Breakfast,10,46,10,91,6.0,8,191
+Pesarattu,262,Breakfast,7,47,11,92,4.0,6,192
+Vegetable Uttapam,263,Breakfast,8,48,12,93,5.0,7,193
+Masala Dosa,264,Breakfast,9,49,13,94,6.0,8,194
+Dal Chilla,265,Breakfast,10,35,9,95,4.0,6,195
+Moong Dal Dosa,266,Breakfast,7,36,10,96,5.0,7,196
+Chana Chaat,267,Breakfast,8,37,11,97,6.0,8,197
+Vegetable Cheela,268,Breakfast,9,38,12,98,4.0,6,198
+Oats Idli,269,Breakfast,10,39,13,99,5.0,7,199
+Methi Paratha,270,Breakfast,7,40,9,100,6.0,8,200
+Vegetable Dalia,271,Breakfast,8,41,10,101,4.0,6,201
+Roti with Jaggery,272,Breakfast,9,42,11,102,5.0,7,202
+Makai Roti with Sarson,273,Breakfast,10,43,12,103,6.0,8,203
+Ragi Dosa,274,Breakfast,7,44,13,104,4.0,6,204
+Multigrain Paratha,275,Breakfast,8,45,9,105,5.0,7,205
+Stuffed Roti,276,Breakfast,9,46,10,106,6.0,8,206
+Sabudana Khichdi,277,Breakfast,10,47,11,107,4.0,6,207
+Sattu Paratha,278,Breakfast,7,48,12,108,5.0,7,208
+Vegetable Porridge,279,Breakfast,8,49,13,109,6.0,8,209
+Vegetable Poha,280,Breakfast,9,35,9,110,4.0,6,210
+Spinach Uttapam,281,Breakfast,10,36,10,111,5.0,7,211
+Beetroot Paratha,282,Breakfast,7,37,11,112,6.0,8,212
+Khichdi,283,Breakfast,8,38,12,113,4.0,6,213
+Rava Kesari,284,Breakfast,9,39,13,114,5.0,7,214
+Jowar Roti,285,Breakfast,10,40,9,115,6.0,8,215
+Vegetable Sprouts,286,Breakfast,7,41,10,116,4.0,6,216
+Palak Poori with Aloo,287,Breakfast,8,42,11,117,5.0,7,217
+Tomato Omelette (Vegetarian),288,Breakfast,9,43,12,118,6.0,8,218
+Vegetable Frankie,289,Breakfast,10,44,13,119,4.0,6,219
+Batata Poha,290,Breakfast,7,45,9,80,5.0,7,220
+Dhokla,291,Breakfast,8,46,10,81,6.0,8,221
+Kadhi Chawal,292,Breakfast,9,47,11,82,4.0,6,222
+Besan Puda,293,Breakfast,10,48,12,83,5.0,7,223
+Kuttu Paratha,294,Breakfast,7,49,13,84,6.0,8,224
+Sooji Upma,295,Breakfast,8,35,9,85,4.0,6,225
+Egg Bhurji,296,Breakfast,9,36,10,86,5.0,7,226
+Paneer Bhurji,297,Breakfast,10,37,11,87,6.0,8,227
+Carrot Paratha,298,Breakfast,7,38,12,88,4.0,6,228
+Ragi Porridge,299,Breakfast,8,39,13,89,5.0,7,229
+Dal Paratha,300,Breakfast,9,40,9,90,6.0,8,230
+Bajra Roti with Jaggery,301,Breakfast,10,41,10,91,4.0,6,231
+Roti with Bhindi,302,Breakfast,7,42,11,92,5.0,7,232
+Chole Kulcha,303,Breakfast,8,43,12,93,6.0,8,233
+Ragi Sprouts Salad,304,Breakfast,9,44,13,94,4.0,6,234
+Lauki Paratha,305,Breakfast,10,45,9,95,5.0,7,235
+Tomato Rice,306,Breakfast,7,46,10,96,6.0,8,236
+Corn Chaat,307,Breakfast,8,47,11,97,4.0,6,237
+Sprouted Moong Dosa,308,Breakfast,9,48,12,98,5.0,7,238
+Cabbage Paratha,309,Breakfast,10,49,13,99,6.0,8,239
+Dal Tikki,310,Breakfast,7,35,9,100,4.0,6,240
+Roti with Dal,311,Breakfast,8,36,10,101,5.0,7,241
+Chia Seed Pudding,312,Breakfast,9,37,11,102,6.0,8,242
+Matar Poha,313,Breakfast,10,38,12,103,4.0,6,243
+Egg Dosa,314,Breakfast,7,39,13,104,5.0,7,244
+Jowar Upma,315,Breakfast,8,40,9,105,6.0,8,245
+Puffed Rice with Sprouts,316,Breakfast,9,41,10,106,4.0,6,246
+Vegetable Idiyappam,317,Breakfast,10,42,11,107,5.0,7,247
+Multigrain Toast,318,Breakfast,7,43,12,108,6.0,8,248
+Vegetable Paratha,319,Breakfast,8,44,13,109,4.0,6,249
+Carrot Idli,320,Breakfast,9,45,9,110,5.0,7,250
+Chickpea Pancakes,321,Breakfast,10,46,10,111,6.0,8,251
+Greek Yogurt with Nuts,322,Breakfast,7,47,11,112,4.0,6,252
+Avocado Toast,323,Breakfast,8,48,12,113,5.0,7,253
+Oatmeal with Berries,324,Breakfast,9,49,13,114,6.0,8,254
+Scrambled Eggs with Spinach,325,Breakfast,10,35,9,115,4.0,6,255
+Whole Wheat Pancakes,326,Breakfast,7,36,10,116,5.0,7,256
+Smoothie Bowl,327,Breakfast,8,37,11,117,6.0,8,257
+Chia Pudding,328,Breakfast,9,38,12,118,4.0,6,258
+Quinoa Breakfast Bowl,329,Breakfast,10,39,13,119,5.0,7,259
+Cottage Cheese with Fruits,250,Breakfast,7,40,9,80,6.0,8,260
+Egg White Omelette,251,Breakfast,8,41,10,81,4.0,6,261
+Granola with Almond Milk,252,Breakfast,9,42,11,82,5.0,7,262
+Peanut Butter Banana Toast,253,Breakfast,10,43,12,83,6.0,8,263
+Veggie Stir-Fry with Tofu,254,Breakfast,7,44,13,84,4.0,6,264
+Buckwheat Pancakes,255,Breakfast,8,45,9,85,5.0,7,265
+Blueberry Protein Shake,256,Breakfast,9,46,10,86,6.0,8,266
+Tofu Scramble,257,Breakfast,10,47,11,87,4.0,6,267
+Hummus and Whole Wheat Toast,258,Breakfast,7,48,12,88,5.0,7,268
+Overnight Oats,259,Breakfast,8,49,13,89,6.0,8,269
+Spinach and Cheese Wrap,260,Breakfast,9,35,9,90,4.0,6,180
+Multigrain Cereal,261,Breakfast,10,36,10,91,5.0,7,181
+Chickpea Flour Pancakes,262,Breakfast,7,37,11,92,6.0,8,182
+Flaxseed Smoothie,263,Breakfast,8,38,12,93,4.0,6,183
+Coconut Chia Pudding,264,Breakfast,9,39,13,94,5.0,7,184
+Banana Protein Muffins,265,Breakfast,10,40,9,95,6.0,8,185
+Spinach and Mushroom Omelette,266,Breakfast,7,41,10,96,4.0,6,186
+Baked Sweet Potato with Almond Butter,267,Breakfast,8,42,11,97,5.0,7,187
+Zucchini Frittata,268,Breakfast,9,43,12,98,6.0,8,188
+Whole Grain Waffles,269,Breakfast,10,44,13,99,4.0,6,189
+Tomato and Avocado Salad,270,Breakfast,7,45,9,100,5.0,7,190
+Lentil Pancakes,271,Breakfast,8,46,10,101,6.0,8,191
+Peanut Butter Smoothie,550,Breakfast,18,55,28,200,2.0,4,300
+Potato Sandwich,450,Breakfast,10,60,18,90,2.0,5,180
+Loaded Sweet Potato Hash,420,Breakfast,15,55,18,100,2.0,7,200
+Peanut Butter French Toast,480,Breakfast,16,45,25,100,2.0,4,180
+Corn Chaat,307,Breakfast,8,47,11,97,4.0,6,237
+Banana Pancakes with Fruits,520,Breakfast,12,80,18,120,2.0,6,200
+"Protein Smoothie (Milk, Nut Butter, Banana, Oats)",600,Breakfast,20,80,22,250,3.0,6,350
+Avocado and Egg Sandwich,500,Breakfast,18,42,28,120,3.0,5,180
+Dal Tadka with Jeera Rice,400,Dinner,18,50,12,250,5.0,8,280
+Stuffed Capsicum with Roti,320,Dinner,8,45,10,100,4.0,7,250
+Mushroom Masala with Chapati,380,Dinner,16,65,6,120,5.0,9,270
+Rajma Masala with Rice,290,Dinner,7,40,8,90,4.0,6,230
+Chana Masala with Paratha,350,Dinner,14,60,5,130,5.0,8,260
+Paneer Butter Masala with Roti,360,Dinner,9,55,7,110,4.0,7,270
+Gobi Paratha with Curd,380,Dinner,12,50,10,150,4.0,6,260
+Aloo Methi with Bajra Roti,420,Dinner,22,55,10,200,6.0,9,280
+Vegetable Khichdi,310,Dinner,10,40,8,120,4.0,8,240
+Tomato Saar with Rice,350,Dinner,12,55,6,130,5.0,9,270
+Carrot Beans Stir Fry with Roti,280,Dinner,8,40,6,100,3.0,5,250
+Zunka Bhakri,310,Dinner,10,45,8,120,4.0,6,260
+Veg Pulao with Raita,340,Dinner,12,50,10,140,5.0,7,270
+Drumstick Sambar with Rice,370,Dinner,14,55,6,160,6.0,8,280
+Moong Dal Chilla with Green Chutney,400,Dinner,8,60,8,180,7.0,5,290
+Lobia Curry with Roti,280,Dinner,10,65,10,200,3.0,6,300
+Kadhi Pakora with Rice,310,Dinner,12,40,6,220,4.0,7,250
+Beetroot Poriyal with Roti,340,Dinner,14,45,8,100,5.0,8,260
+Dhokla with Green Chutney,370,Dinner,8,50,10,120,6.0,5,270
+Ridge Gourd Sabzi with Roti,400,Dinner,10,55,6,140,7.0,6,280
+Spinach Dal with Rice,280,Dinner,12,60,8,160,3.0,7,290
+Pumpkin Thepla,310,Dinner,14,65,10,180,4.0,8,300
+Vegetable Idiyappam,340,Dinner,8,40,6,200,5.0,5,250
+Tinda Masala with Phulka,370,Dinner,10,45,8,220,6.0,6,260
+Arhar Dal with Rice,400,Dinner,12,50,10,100,7.0,7,270
+Bottle Gourd Soup,280,Dinner,14,55,6,120,3.0,8,280
+Suran Stir Fry,310,Dinner,8,60,8,140,4.0,5,290
+Gongura Dal with Rice,340,Dinner,10,65,10,160,5.0,6,300
+Jackfruit Curry with Roti,370,Dinner,12,40,6,180,6.0,7,250
+Soybean Biryani,400,Dinner,14,45,8,200,7.0,8,260
+Kala Chana Masala with Roti,280,Dinner,8,50,10,220,3.0,5,270
+Corn Capsicum Sabzi,310,Dinner,10,55,6,100,4.0,6,280
+Rasam with Rice,340,Dinner,12,60,8,120,5.0,7,290
+Batata Rassa with Roti,370,Dinner,14,65,10,140,6.0,8,300
+Vegetable Upma,400,Dinner,8,40,6,160,7.0,5,250
+Pesarattu with Chutney,280,Dinner,10,45,8,180,3.0,6,260
+Mooli Paratha,310,Dinner,12,50,10,200,4.0,7,270
+Capsicum Besan Sabzi,340,Dinner,14,55,6,220,5.0,8,280
+Patra with Green Chutney,370,Dinner,8,60,8,100,6.0,5,290
+Kashmiri Dum Aloo with Roti,400,Dinner,10,65,10,120,7.0,6,300
+Eggplant Sambar,280,Dinner,12,40,6,140,3.0,7,250
+Kachumber Salad,310,Dinner,14,45,8,160,4.0,8,260
+Gatte Ki Sabzi,340,Dinner,8,50,10,180,5.0,5,270
+Dhaniya Chicken with Roti,370,Dinner,10,55,6,200,6.0,6,280
+Kolhapuri Misal Pav,400,Dinner,12,60,8,220,7.0,7,290
+Khandvi with Chutney,280,Dinner,14,65,10,100,3.0,8,300
+Schezwan Paneer with Rice,310,Dinner,8,40,6,120,4.0,5,250
+Karela Bharta,340,Dinner,10,45,8,140,5.0,6,260
+Masala Oats with Yogurt,370,Dinner,12,50,10,160,6.0,7,270
+Methi Bhaji with Roti,400,Dinner,14,55,6,180,7.0,8,280
+Stuffed Karela,280,Dinner,8,60,8,200,3.0,5,290
+Mix Dal Fry with Rice,310,Dinner,10,65,10,220,4.0,6,300
+Aloo Baingan with Roti,340,Dinner,12,40,6,100,5.0,7,250
+Dum Biryani with Raita,370,Dinner,14,45,8,120,6.0,8,260
+Sev Tamatar Sabzi,400,Dinner,8,50,10,140,7.0,5,270
+Chawli Bhaji with Roti,280,Dinner,10,55,6,160,3.0,6,280
+Besan Cheela with Curd,310,Dinner,12,60,8,180,4.0,7,290
+Sindhi Kadhi with Rice,340,Dinner,14,65,10,200,5.0,8,300
+Mysore Masala Dosa,370,Dinner,8,40,6,220,6.0,5,250
+Panchratna Dal,400,Dinner,10,45,8,100,7.0,6,260
+Tindora Sabzi with Roti,280,Dinner,12,50,10,120,3.0,7,270
+Pumpkin Dal with Rice,310,Dinner,14,55,6,140,4.0,8,280
+Ghee Rice with Dal Fry,340,Dinner,8,60,8,160,5.0,5,290
+Uttapam with Coconut Chutney,370,Dinner,10,65,10,180,6.0,6,300
+Lauki Ke Kofte,400,Dinner,12,40,6,200,7.0,7,250
+Achari Bhindi,280,Dinner,14,45,8,220,3.0,8,260
+Mix Lentil Khichdi,310,Dinner,8,50,10,100,4.0,5,270
+Puliogare,340,Dinner,10,55,6,120,5.0,6,280
+Dal Dhokli,370,Dinner,12,60,8,140,6.0,7,290
+Madras Curry with Rice,400,Dinner,14,65,10,160,7.0,8,300
+Grilled Salmon with Quinoa,450,Dinner,35,40,12,80,3.0,5,300
+Chicken Caesar Salad,370,Dinner,32,25,15,120,2.5,4,250
+Pasta Primavera,420,Dinner,14,65,10,90,3.0,6,280
+Sushi Rolls,350,Dinner,22,50,8,70,2.0,5,240
+Greek Salad with Feta,280,Dinner,10,35,12,150,3.0,5,220
+Burrito Bowl,520,Dinner,26,70,15,140,4.0,8,350
+Shakshuka,380,Dinner,18,40,15,120,4.0,6,280
+Grilled Tofu with Vegetables,340,Dinner,22,40,10,180,5.0,7,260
+Quinoa Stuffed Peppers,400,Dinner,16,50,12,110,4.0,7,270
+Thai Green Curry with Rice,450,Dinner,20,60,15,130,5.0,6,300
+Miso Soup with Tofu,280,Dinner,12,30,8,150,3.0,4,200
+Mediterranean Chickpea Salad,310,Dinner,14,35,10,120,4.0,6,240
+Falafel Wrap,430,Dinner,18,55,12,140,4.0,7,280
+Kimchi Fried Rice,460,Dinner,15,65,14,90,3.0,5,300
+Avocado Toast with Poached Egg,370,Dinner,14,45,15,100,3.0,5,250
+Teriyaki Chicken with Brown Rice,480,Dinner,30,60,10,110,4.0,6,320
+Moroccan Couscous Salad,350,Dinner,12,50,9,120,3.5,6,280
+Poke Bowl with Tuna,500,Dinner,35,60,14,90,3.0,5,300
+Pho with Chicken,420,Dinner,28,55,10,110,4.0,5,350
+Italian Minestrone Soup,290,Dinner,10,40,8,120,3.5,6,300
+Spanish Paella,480,Dinner,25,65,12,100,4.0,6,320
+Bulgur Wheat Tabbouleh,310,Dinner,12,50,9,130,3.0,7,260
+Dal Tadka,300,Lunch,8,40,10,70,3.0,5,200
+Palak Paneer,301,Lunch,9,41,11,71,4.0,6,201
+Chana Masala,302,Lunch,10,42,12,72,5.0,7,202
+Rajma,303,Lunch,11,43,13,73,3.0,8,203
+Baingan Bharta,304,Lunch,12,44,14,74,4.0,5,204
+Aloo Gobhi,305,Lunch,8,45,15,75,5.0,6,205
+Bhindi Masala,306,Lunch,9,46,16,76,3.0,7,206
+Methi Malai Matar,307,Lunch,10,47,17,77,4.0,8,207
+Lauki Chana Dal,308,Lunch,11,48,10,78,5.0,5,208
+Pindi Chole,309,Lunch,12,49,11,79,3.0,6,209
+Mix Vegetable Curry,310,Lunch,8,50,12,80,4.0,7,210
+Matar Paneer,311,Lunch,9,51,13,81,5.0,8,211
+Kadhi Pakora,312,Lunch,10,52,14,82,3.0,5,212
+Sambar,313,Lunch,11,53,15,83,4.0,6,213
+Vegetable Kurma,314,Lunch,12,54,16,84,5.0,7,214
+Tinda Masala,315,Lunch,8,55,17,85,3.0,8,215
+Sarson da Saag,316,Lunch,9,56,10,86,4.0,5,216
+Paneer Bhurji,317,Lunch,10,57,11,87,5.0,6,217
+Vegetable Jalfrezi,318,Lunch,11,58,12,88,3.0,7,218
+Pumpkin Sabzi,319,Lunch,12,59,13,89,4.0,8,219
+Cabbage Stir Fry,320,Lunch,8,40,14,90,5.0,5,220
+Aloo Methi,321,Lunch,9,41,15,91,3.0,6,221
+Dal Makhani,322,Lunch,10,42,16,92,4.0,7,222
+Masoor Dal,323,Lunch,11,43,17,93,5.0,8,223
+Moong Dal,324,Lunch,12,44,10,94,3.0,5,224
+Arhar Dal,325,Lunch,8,45,11,95,4.0,6,225
+Urad Dal,326,Lunch,9,46,12,96,5.0,7,226
+Gatte ki Sabzi,327,Lunch,10,47,13,97,3.0,8,227
+Dal Palak,328,Lunch,11,48,14,98,4.0,5,228
+Kashmiri Dum Aloo,329,Lunch,12,49,15,99,5.0,6,229
+Bharta (Pumpkin),330,Lunch,8,50,16,100,3.0,7,230
+Bottle Gourd Kofta,331,Lunch,9,51,17,101,4.0,8,231
+Karela Fry,332,Lunch,10,52,10,102,5.0,5,232
+Paneer Butter Masala,333,Lunch,11,53,11,103,3.0,6,233
+Malai Kofta,334,Lunch,12,54,12,104,4.0,7,234
+Aloo Baingan,335,Lunch,8,55,13,105,5.0,8,235
+Drumstick Sambar,336,Lunch,9,56,14,106,3.0,5,236
+Veg Kolhapuri,337,Lunch,10,57,15,107,4.0,6,237
+Dum Biryani,338,Lunch,11,58,16,108,5.0,7,238
+Vegetable Pulao,339,Lunch,12,59,17,109,3.0,8,239
+Jeera Rice,340,Lunch,8,40,10,110,4.0,5,240
+Khichdi,341,Lunch,9,41,11,111,5.0,6,241
+Lemon Rice,342,Lunch,10,42,12,112,3.0,7,242
+Curd Rice,343,Lunch,11,43,13,113,4.0,8,243
+Tamarind Rice,344,Lunch,12,44,14,114,5.0,5,244
+Vegetable Fried Rice,345,Lunch,8,45,15,115,3.0,6,245
+Beetroot Poriyal,346,Lunch,9,46,16,116,4.0,7,246
+Spinach Moong Dal,347,Lunch,10,47,17,117,5.0,8,247
+Pesarattu,348,Lunch,11,48,10,118,3.0,5,248
+Stuffed Paratha,349,Lunch,12,49,11,119,4.0,6,249
+Rajma Chawal,350,Lunch,8,50,12,70,5.0,7,250
+Dal Baati Churma,351,Lunch,9,51,13,71,3.0,8,251
+Mishti Doi,352,Lunch,10,52,14,72,4.0,5,252
+Veg Hakka Noodles,353,Lunch,11,53,15,73,5.0,6,253
+Methi Pulao,354,Lunch,12,54,16,74,3.0,7,254
+Coconut Rice,355,Lunch,8,55,17,75,4.0,8,255
+Carrot Beans Poriyal,356,Lunch,9,56,10,76,5.0,5,256
+Drumstick Leaves Curry,357,Lunch,10,57,11,77,3.0,6,257
+Chickpea Salad,358,Lunch,11,58,12,78,4.0,7,258
+Tofu Bhurji,359,Lunch,12,59,13,79,5.0,8,259
+Bhindi Do Pyaza,360,Lunch,8,40,14,80,3.0,5,260
+Soya Chunk Curry,361,Lunch,9,41,15,81,4.0,6,261
+Pumpkin Kootu,362,Lunch,10,42,16,82,5.0,7,262
+Dosa with Sambar,363,Lunch,11,43,17,83,3.0,8,263
+Roti with Sabzi,364,Lunch,12,44,10,84,4.0,5,264
+Mixed Sprouts Curry,365,Lunch,8,45,11,85,5.0,6,265
+Ridge Gourd Sabzi,366,Lunch,9,46,12,86,3.0,7,266
+Vegetable Kadhi,367,Lunch,10,47,13,87,4.0,8,267
+Tomato Rasam,368,Lunch,11,48,14,88,5.0,5,268
+Beetroot Raita,369,Lunch,12,49,15,89,3.0,6,269
+Cucumber Raita,370,Lunch,8,50,16,90,4.0,7,270
+Gobi Masala,371,Lunch,9,51,17,91,5.0,8,271
+Paneer Paratha,372,Lunch,10,52,10,92,3.0,5,272
+Grilled Salmon with Quinoa,373,Lunch,11,53,11,93,4.0,6,273
+Mediterranean Chickpea Salad,374,Lunch,12,54,12,94,5.0,7,274
+Lentil Soup,375,Lunch,8,55,13,95,3.0,8,275
+Vegetable Sushi Rolls,376,Lunch,9,56,14,96,4.0,5,276
+Greek Salad with Feta,377,Lunch,10,57,15,97,5.0,6,277
+Stuffed Bell Peppers,378,Lunch,11,58,16,98,3.0,7,278
+Mushroom Risotto,379,Lunch,12,59,17,99,4.0,8,279
+Hummus Wrap,380,Lunch,8,40,10,100,5.0,5,280
+Zucchini Noodles,381,Lunch,9,41,11,101,3.0,6,281
+Baked Falafel with Tzatziki,382,Lunch,10,42,12,102,4.0,7,282
+Vegan Buddha Bowl,383,Lunch,11,43,13,103,5.0,8,283
+Black Bean Quinoa Bowl,384,Lunch,12,44,14,104,3.0,5,284
+Miso Soup with Tofu,385,Lunch,8,45,15,105,4.0,6,285
+Whole Wheat Pasta Primavera,386,Lunch,9,46,16,106,5.0,7,286
+Spinach and Feta Stuffed Chicken,387,Lunch,10,47,17,107,3.0,8,287
+Avocado and Chickpea Salad,388,Lunch,11,48,10,108,4.0,5,288
+Tomato Basil Soup with Whole Grain Bread,389,Lunch,12,49,11,109,5.0,6,289
+Thai Green Curry with Brown Rice,390,Lunch,8,50,12,110,3.0,7,290
+Roasted Brussels Sprouts with Quinoa,391,Lunch,9,51,13,111,4.0,8,291
+Grilled Tofu with Stir-Fried Vegetables,392,Lunch,10,52,14,112,5.0,5,292
+Couscous Salad with Chickpeas,393,Lunch,11,53,15,113,3.0,6,293
+Vegetable Paella,394,Lunch,12,54,16,114,4.0,7,294
+Eggplant Parmesan,395,Lunch,8,55,17,115,5.0,8,295
+Stuffed Zucchini Boats,396,Lunch,9,56,10,116,3.0,5,296
+Greek Lentil Salad,397,Lunch,10,57,11,117,4.0,6,297
+Grilled Portobello Mushrooms,398,Lunch,11,58,12,118,5.0,7,298
+Barley and Lentil Stew,399,Lunch,12,59,13,119,3.0,8,299
+Cauliflower Fried Rice,300,Lunch,8,40,14,70,4.0,5,200
+Spinach and Ricotta Stuffed Peppers,301,Lunch,9,41,15,71,5.0,6,201
+Mushroom Barley Soup,302,Lunch,10,42,16,72,3.0,7,202
+Dhokla,200,Evening Snacks,6,25,8,60,3.0,4,150
+Sprouts Chaat,201,Evening Snacks,7,26,9,61,4.0,5,151
+Masala Corn,202,Evening Snacks,8,27,10,62,3.0,6,152
+Upma,203,Evening Snacks,9,28,11,63,4.0,4,153
+Poha,204,Evening Snacks,6,29,12,64,3.0,5,154
+Besan Chilla,205,Evening Snacks,7,30,13,65,4.0,6,155
+Methi Thepla,206,Evening Snacks,8,31,8,66,3.0,4,156
+Paneer Tikka,207,Evening Snacks,9,32,9,67,4.0,5,157
+Vegetable Cutlet,208,Evening Snacks,6,33,10,68,3.0,6,158
+Sabudana Vada,209,Evening Snacks,7,34,11,69,4.0,4,159
+Ragi Dosa,210,Evening Snacks,8,35,12,70,3.0,5,160
+Moong Dal Chilla,211,Evening Snacks,9,36,13,71,4.0,6,161
+Hara Bhara Kabab,212,Evening Snacks,6,37,8,72,3.0,4,162
+Oats Chilla,213,Evening Snacks,7,38,9,73,4.0,5,163
+Stuffed Paratha,214,Evening Snacks,8,39,10,74,3.0,6,164
+Hummus with Pita,215,Evening Snacks,9,25,11,75,4.0,4,165
+Greek Yogurt with Berries,216,Evening Snacks,6,26,12,76,3.0,5,166
+Avocado Toast,217,Evening Snacks,7,27,13,77,4.0,6,167
+Quinoa Salad,218,Evening Snacks,8,28,8,78,3.0,4,168
+Chia Pudding,219,Evening Snacks,9,29,9,79,4.0,5,169
+Peanut Butter Banana Toast,450,Breakfast,12,45,20,100,5.0,5,200
+Avocado Egg Sandwich,500,Breakfast,18,40,25,90,4.5,6,210
+Cheese Omelette with Toast,520,Breakfast,22,30,30,120,3.8,4,190
+Breakfast Burrito,600,Breakfast,20,50,32,130,6.0,7,250
+Granola with Yogurt and Berries,470,Breakfast,14,55,18,150,5.5,5,230
+Pancakes with Honey,550,Breakfast,10,65,22,140,4.2,6,260
+Almond Butter Smoothie,480,Breakfast,16,40,24,110,4.7,5,240
+Stuffed Paratha with Yogurt,530,Breakfast,14,48,28,115,4.1,6,270
+Veggie Cheese Sandwich,490,Breakfast,15,45,22,105,5.2,5,220
+Muesli with Milk,440,Breakfast,13,50,17,125,4.9,5,210
+Banana Oats Shake,460,Breakfast,12,42,18,95,5.3,4,200
+Grilled Chicken with Rice,650,Lunch,35,50,28,150,5.5,6,300
+Paneer Butter Masala with Naan,700,Lunch,25,55,35,160,5.2,5,320
+Veg Biryani with Raita,600,Lunch,18,70,20,140,5.0,6,310
+Rajma Chawal,620,Lunch,22,68,18,135,5.8,7,315
+Fish Curry with Rice,630,Lunch,30,55,26,145,5.3,6,300
+Stuffed Capsicum with Rice,580,Lunch,20,62,19,130,4.9,6,290
+Mutton Curry with Chapati,750,Lunch,32,45,38,170,6.0,5,330
+Dal Makhani with Jeera Rice,670,Lunch,24,65,25,155,5.6,7,320
+Chicken Shawarma Plate,690,Lunch,34,48,32,160,5.7,6,340
+Soya Chunk Pulao,570,Lunch,23,64,17,140,5.1,6,295
+Mixed Vegetable Curry with Rice,610,Lunch,19,70,20,135,5.2,6,305
+Pasta in White Sauce,580,Lunch,18,68,22,125,5.4,5,310
+Grilled Paneer Salad,450,Dinner,20,30,22,120,4.2,5,250
+Chicken Kathi Roll,540,Dinner,25,40,24,135,4.7,6,260
+Veggie Pasta Salad,480,Dinner,15,52,18,110,4.5,5,240
+Butter Chicken with Roti,720,Dinner,32,50,36,160,5.9,6,320
+Egg Curry with Rice,600,Dinner,26,48,25,140,5.5,5,310
+Palak Paneer with Paratha,670,Dinner,24,56,28,145,5.1,6,300
+Mushroom Fried Rice,580,Dinner,18,62,20,125,4.8,5,290
+Grilled Fish and Veggies,560,Dinner,30,35,22,130,5.2,6,280
+Chana Masala with Rice,610,Dinner,22,66,18,135,5.3,7,300
+Stuffed Kulcha with Chole,730,Dinner,26,58,34,155,6.1,5,340
+Pav Bhaji,590,Dinner,16,65,22,120,5.0,5,270
+Peanut Butter Sandwich,420,Evening Snack,12,38,22,100,4.5,5,180
+Fruit and Nut Smoothie,450,Evening Snack,10,40,20,95,5.0,6,200
+Cheese Crackers,480,Evening Snack,14,35,25,110,4.2,4,190
+Stuffed Veg Sandwich,500,Evening Snack,13,42,24,105,4.8,5,200
+Paneer Tikka,520,Evening Snack,22,28,28,120,5.5,5,210
+Chickpea Salad,470,Evening Snack,18,36,18,115,4.9,6,190
+Hummus with Pita Bread,530,Evening Snack,17,40,26,130,5.2,5,220
+Banana Peanut Wrap,480,Evening Snack,11,45,20,100,4.6,5,200
+Egg Sandwich,490,Evening Snack,15,38,24,105,5.1,5,210
+Trail Mix,510,Evening Snack,16,34,30,125,4.7,4,180
+Vegetable Cutlet,440,Evening Snack,10,42,18,95,4.5,5,190
